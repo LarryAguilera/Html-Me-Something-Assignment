@@ -1,0 +1,19 @@
+body{ background-color: rgb(206, 241, 255);} 
+p { color: rgb(0, 0, 70); } 
+p {padding-bottom: 1px}
+h2{ color: #f7be54; }
+h1{ color: #ff9100}
+h1 { margin: 25px 35px 25px 25px}
+footer { color: green}
+footer {padding-top: 5px;
+        padding-bottom: 15px;}
+h1.blogTitle{ background-color: rgb(185, 185, 248)}
+#firstp{ border-color: chocolate;
+         border-width: 2px;
+         border-style: dotted;}
+#secondp{ border-color: rgb(30, 210, 75);
+    border-width: 2px;
+    border-style: dotted;}
+#thirdp{ border-color: rgb(210, 30, 186);
+    border-width: 2px;
+    border-style: dotted;}
