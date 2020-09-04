@@ -7,7 +7,7 @@ h1 { margin: 25px 35px 25px 25px}
 footer { color: green}
 footer {padding-top: 5px;
         padding-bottom: 15px;}
-h1.blogTitle{ background-color: rgb(185, 185, 248)}
+h1.blogTitle{ background-color: rgb(213, 213, 247);}
 #firstp{ border-color: chocolate;
          border-width: 2px;
          border-style: dotted;}
@@ -17,3 +17,7 @@ h1.blogTitle{ background-color: rgb(185, 185, 248)}
 #thirdp{ border-color: rgb(210, 30, 186);
     border-width: 2px;
     border-style: dotted;}
+img {
+    width: 300px;
+    height: auto;
+    }
